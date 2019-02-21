@@ -9,7 +9,7 @@ The program takes wave files available on the same folder and gives out the emot
 ************Old concept**************
 
 concept_0.5
-This concept was to use a loop_feedback so that it directly takes any audio being played in the computer.
+This concept was to use a loop_feedback so that it directly takes any audio being played in the computer. This was then supposed to be made as a browser extension, but i didn't have sufficient time to complete it before my final year project dateline
 
 concept_1.0
 This concept uses a mic to take ausio from the computer's speaker. Didn't worked well. Lots of noise which results in misclassification.
